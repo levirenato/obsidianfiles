@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1da8e998641db324",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a027f46c424af37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6ba335e9d60db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/NVIM - comandos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b0ae5bb8629fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff6f386a69cdb1ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8abf78db1415c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51942c134274f428",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "badb65399319a8a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3d01ea602528867e",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ede318f37c59f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59a3c922d3a73e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/NVIM - comandos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6335496be24af5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/NVIM - comandos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b19336d38bf94398",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49e4490acc9a27f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/NVIM - comandos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false
+    }
+  },
+  "active": "9e6ba335e9d60db3",
+  "lastOpenFiles": [
+    "Linux/Comandos terminal.md",
+    "Linux/NVIM - comandos.md",
+    "Sem título.md",
+    "Linux/Criar executável linha de comando.md",
+    "Sem título.canvas",
+    "Linux",
+    "2024-04-10.md",
+    "Projeto W3/Desgin.canvas",
+    "Projeto W3/Projeto Web 3.md",
+    "Projeto W3/Ferramentas/Ferramentas.md",
+    "Projeto W3/Ferramentas/Docker.md",
+    "Projeto W3/Features/Features.md",
+    "Projeto W3/Features",
+    "[Ferramentas.md",
+    "Calendário.md",
+    "[[Ferramentas.md",
+    "Projeto W3/Ferramentas/MySQL.md",
+    "Projeto W3/Ferramentas/VueJs.md",
+    "Projeto W3/Ferramentas",
+    "Projeto W3/Ferramentas/Express.md",
+    "2024-03-14.md",
+    "I.A",
+    "PIBEX",
+    "PIBIC",
+    "Projeto W3",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

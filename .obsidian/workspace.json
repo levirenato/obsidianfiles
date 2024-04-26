@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "34611bce993b0330",
+    "type": "split",
+    "children": [
+      {
+        "id": "481476fdc5f388be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c3e96c0b2fee9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeMCU/Projetos/Semáforo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49277a6478960b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "2233a5ca178dacb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3724f64e09a7aa73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5860231635321ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db2f5e0d3eb01dc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "948505b96b5a9572",
+    "type": "split",
+    "children": [
+      {
+        "id": "160314b5923e427c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "227a5f0baf12d3ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NodeMCU/Projetos/Semáforo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4df135fe640ca066",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NodeMCU/Projetos/Semáforo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc2ee2d5c4c25059",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3acb9543e5392884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NodeMCU/Projetos/Semáforo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c3e96c0b2fee9be",
+  "lastOpenFiles": [
+    "NodeMCU/Projetos/RGB com potenciômetro.md",
+    "NodeMCU/Projetos/led com botão.md",
+    "ML/Artigos.md",
+    "ML/Student performance (PIP).md",
+    "NodeMCU/Conceitos/RGB.md",
+    "NodeMCU/Arquitetura WeMos D1/Resumo.md",
+    "NodeMCU/Arquitetura WeMos D1",
+    "NodeMCU/Projetos/Semáforo.md",
+    "NodeMCU/Conceitos/PWM.md",
+    "NodeMCU/Instalação.md",
+    "NodeMCU/Conceitos",
+    "Micropython/Untitled.md",
+    "NodeMCU/Componentes",
+    "NodeMCU/Projetos",
+    "Sistemas/Linux/Criar executável linha de comando.md",
+    "NodeMCU",
+    "Sistemas/Linux/NVIM - comandos.md",
+    "Untitled.md",
+    "ML"
+  ]
+}
