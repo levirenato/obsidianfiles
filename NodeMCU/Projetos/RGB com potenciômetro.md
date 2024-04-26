@@ -1,6 +1,6 @@
 ## Resumo
 
-controlando o [[RGB]] é necessário utilizar  a técnica [[PWM]] para oscilar a frequência e assim alterar a cor
+controlando o [[Led RGB]] é necessário utilizar  a técnica [[PWM]] para oscilar a frequência e assim alterar a cor
 
 ```
 # main.py -- put your code here!

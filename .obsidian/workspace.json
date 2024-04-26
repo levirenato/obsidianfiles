@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "481476fdc5f388be",
+        "id": "f03d42df766c0908",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3e96c0b2fee9be",
+            "id": "1b504872a3d225cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c3e96c0b2fee9be",
+  "active": "1b504872a3d225cd",
   "lastOpenFiles": [
+    "NodeMCU/Componentes/Led.md",
+    "NodeMCU/Projetos/Semáforo.md",
     "NodeMCU/Projetos/RGB com potenciômetro.md",
+    "NodeMCU/Projetos/pisca-pisca.md",
     "NodeMCU/Projetos/led com botão.md",
+    "NodeMCU/Projetos/Hello World.md",
+    "NodeMCU/Conceitos/Ânodo.md",
+    "NodeMCU/Componentes/Botão de pressão.md",
+    "NodeMCU/Anexos/pushbutton.png",
+    "NodeMCU/Componentes/Led RGB.md",
+    "NodeMCU/Componentes/Potenciômetro.md",
+    "NodeMCU/Anexos/led_rgb.png",
+    "NodeMCU/Conceitos/Portas.md",
+    "NodeMCU/Conceitos/PWM.md",
+    "NodeMCU/Conceitos/Cátodo.md",
+    "NodeMCU/Anexos/led_details.png",
+    "NodeMCU/Anexos/led.png",
+    "NodeMCU/Anexos/led.png",
+    "NodeMCU/Anexos/esp32.png",
+    "NodeMCU/Anexos",
+    "NodeMCU/Anexos/esp8266.png",
     "ML/Artigos.md",
     "ML/Student performance (PIP).md",
-    "NodeMCU/Conceitos/RGB.md",
     "NodeMCU/Arquitetura WeMos D1/Resumo.md",
     "NodeMCU/Arquitetura WeMos D1",
-    "NodeMCU/Projetos/Semáforo.md",
-    "NodeMCU/Conceitos/PWM.md",
     "NodeMCU/Instalação.md",
     "NodeMCU/Conceitos",
     "Micropython/Untitled.md",
