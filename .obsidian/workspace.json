@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeMCU/Projetos/Semáforo.md",
+                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeMCU/Projetos/Semáforo.md",
+                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeMCU/Projetos/Semáforo.md",
+                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeMCU/Projetos/Semáforo.md"
+                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md"
               }
             }
           }
@@ -148,9 +148,19 @@
   },
   "active": "1b504872a3d225cd",
   "lastOpenFiles": [
-    "NodeMCU/Componentes/Led.md",
-    "NodeMCU/Projetos/Semáforo.md",
     "NodeMCU/Projetos/RGB com potenciômetro.md",
+    "NodeMCU/Projetos/Untitled.md",
+    "NodeMCU/Projetos/Medidor de temperatura com termístor.md",
+    "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
+    "NodeMCU/Instalação.md",
+    "NodeMCU/Componentes/Termístor.md",
+    "NodeMCU/Componentes/LDR.md",
+    "NodeMCU/Projetos/Untitled",
+    "NodeMCU/Anexos/LDR.png",
+    "NodeMCU/Conceitos/Portas.md",
+    "NodeMCU/Conceitos/ADC.md",
+    "NodeMCU/Projetos/Semáforo.md",
+    "NodeMCU/Componentes/Led.md",
     "NodeMCU/Projetos/pisca-pisca.md",
     "NodeMCU/Projetos/led com botão.md",
     "NodeMCU/Projetos/Hello World.md",
@@ -160,7 +170,6 @@
     "NodeMCU/Componentes/Led RGB.md",
     "NodeMCU/Componentes/Potenciômetro.md",
     "NodeMCU/Anexos/led_rgb.png",
-    "NodeMCU/Conceitos/Portas.md",
     "NodeMCU/Conceitos/PWM.md",
     "NodeMCU/Conceitos/Cátodo.md",
     "NodeMCU/Anexos/led_details.png",
@@ -173,7 +182,6 @@
     "ML/Student performance (PIP).md",
     "NodeMCU/Arquitetura WeMos D1/Resumo.md",
     "NodeMCU/Arquitetura WeMos D1",
-    "NodeMCU/Instalação.md",
     "NodeMCU/Conceitos",
     "Micropython/Untitled.md",
     "NodeMCU/Componentes",
@@ -181,7 +189,6 @@
     "Sistemas/Linux/Criar executável linha de comando.md",
     "NodeMCU",
     "Sistemas/Linux/NVIM - comandos.md",
-    "Untitled.md",
     "ML"
   ]
 }
