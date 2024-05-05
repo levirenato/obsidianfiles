@@ -5,11 +5,19 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:NodeMCU  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -2.4,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -18,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6666666666666666,
-  "close": false
+  "close": true
 }

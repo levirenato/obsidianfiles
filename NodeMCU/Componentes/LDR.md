@@ -3,3 +3,8 @@ Quando a luz incide sobre um LDR, a resistência do dispositivo diminui, permiti
 
 ![[LDR.png]]
 *Um resistor dependente de luz ou fotorresistência*
+
+Podemos criar um objeto utilizando POO:
+```
+
+```

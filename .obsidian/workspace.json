@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
-                "mode": "source",
+                "file": "NodeMCU/Projetos/Controlando LED pela rede.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
+                "file": "NodeMCU/Projetos/Controlando LED pela rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
+                "file": "NodeMCU/Projetos/Controlando LED pela rede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeMCU/Projetos/Medidor de intensidade luminosa.md"
+                "file": "NodeMCU/Projetos/Controlando LED pela rede.md"
               }
             }
           }
@@ -148,47 +148,50 @@
   },
   "active": "1b504872a3d225cd",
   "lastOpenFiles": [
-    "NodeMCU/Projetos/RGB com potenciômetro.md",
-    "NodeMCU/Projetos/Untitled.md",
-    "NodeMCU/Projetos/Medidor de temperatura com termístor.md",
-    "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
-    "NodeMCU/Instalação.md",
+    "NodeMCU/Componentes/Display de 7 segmentos.md",
+    "NodeMCU/Projetos/Controlando LED pela rede.md",
+    "NodeMCU/Conceitos/Servidor.md",
+    "NodeMCU/Conceitos/WiFi.md",
+    "NodeMCU/Componentes/Potenciômetro.md",
     "NodeMCU/Componentes/Termístor.md",
+    "NodeMCU/Componentes/Led RGB.md",
+    "NodeMCU/Componentes/Led.md",
     "NodeMCU/Componentes/LDR.md",
+    "NodeMCU/Componentes/Botão de pressão.md",
+    "NodeMCU/Anexos/display_7_datasheet_1.png",
+    "NodeMCU/Anexos/display_7_datasheet_3.png",
+    "NodeMCU/Anexos/display_7_datasheet_2.png",
+    "Untitled.canvas",
+    "NodeMCU/Projetos/Hello World.md",
+    "2024-05-01.md",
+    "NodeMCU/Projetos/RGB com potenciômetro.md",
+    "Sistemas/Linux/Criar executável linha de comando.md",
+    "NodeMCU/Projetos/led com botão.md",
+    "NodeMCU/Arquitetura WeMos D1/Resumo.md",
+    "Sistemas/Linux/NVIM - comandos.md",
+    "ML/Artigos.md",
+    "NodeMCU/Projetos/Semáforo.md",
+    "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
+    "NodeMCU/Projetos/Medidor de temperatura com termístor.md",
+    "NodeMCU/Instalação.md",
     "NodeMCU/Projetos/Untitled",
     "NodeMCU/Anexos/LDR.png",
     "NodeMCU/Conceitos/Portas.md",
     "NodeMCU/Conceitos/ADC.md",
-    "NodeMCU/Projetos/Semáforo.md",
-    "NodeMCU/Componentes/Led.md",
     "NodeMCU/Projetos/pisca-pisca.md",
-    "NodeMCU/Projetos/led com botão.md",
-    "NodeMCU/Projetos/Hello World.md",
     "NodeMCU/Conceitos/Ânodo.md",
-    "NodeMCU/Componentes/Botão de pressão.md",
     "NodeMCU/Anexos/pushbutton.png",
-    "NodeMCU/Componentes/Led RGB.md",
-    "NodeMCU/Componentes/Potenciômetro.md",
     "NodeMCU/Anexos/led_rgb.png",
-    "NodeMCU/Conceitos/PWM.md",
-    "NodeMCU/Conceitos/Cátodo.md",
     "NodeMCU/Anexos/led_details.png",
     "NodeMCU/Anexos/led.png",
     "NodeMCU/Anexos/led.png",
     "NodeMCU/Anexos/esp32.png",
     "NodeMCU/Anexos",
-    "NodeMCU/Anexos/esp8266.png",
-    "ML/Artigos.md",
-    "ML/Student performance (PIP).md",
-    "NodeMCU/Arquitetura WeMos D1/Resumo.md",
     "NodeMCU/Arquitetura WeMos D1",
     "NodeMCU/Conceitos",
-    "Micropython/Untitled.md",
     "NodeMCU/Componentes",
     "NodeMCU/Projetos",
-    "Sistemas/Linux/Criar executável linha de comando.md",
     "NodeMCU",
-    "Sistemas/Linux/NVIM - comandos.md",
     "ML"
   ]
 }
