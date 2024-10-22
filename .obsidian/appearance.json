@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "MesloLGM Nerd Font",
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin"
 }
