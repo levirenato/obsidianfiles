@@ -28,13 +28,20 @@ Para o laboratorio é necessário seguir os passos resumidos abaixo para a insta
 Lembrando que as instruções completas do laboratório vão estar [aqui](obsidian://open?vault=obsidian&file=Seguran%C3%A7a%2FCyberOps%20-%20CiscoAcademy%2FAnexos%2F1.1.6-lab---cybersecurity-case-studies_pt-BR.pdf).
 
 Responda as perguntas:
+**Ataque escolhido: O vírus Stuxnet**
 
 a. Quem foram as vítimas dos ataques?
+	- R: Foram as industrias iranianas. 
 b. Quais tecnologias e ferramentas foram usadas no ataque?
+	 - R: Foi utilizado um warm
 c. Quando o ataque aconteceu dentro da rede?
+	 - R: Quando um dispositivo com o vírus foi conectado aos computadores da usina.
 d. Quais sistemas foram direcionados?
+	 - R: fazer com que as centrífugas iranianas começassem a girar 40% mais rapidamente por quinze minutos, o que causava rachaduras nas centrífugas de alumínio. e  o segundo é passar relatórios indicando dados normais enquanto ela na verdade está girando enlouquecida.
 e. Qual foi a motivação dos atacantes neste caso? O que eles esperavam alcançar?
+	- Ninguém sabe ao certo.
 f. Qual foi o resultado do ataque? (dados roubados, resgate, danos no sistema, etc.)
+	- O irã no inicio disse que não teve isso, porém depois comentaram que  houveram sim danos mas não em larga escala
 
 ## Agentes  da ameaça
 
@@ -47,3 +54,13 @@ f. Qual foi o resultado do ataque? (dados roubados, resgate, danos no sistema, e
 
 
 
+## Laboratório II - Aprendendo os detalhes dos ataques
+Objetivo: Usando seu mecanismo de pesquisa favorito, realize uma pesquisa de vulnerabilidades da Internet das Coisas (IoT). Durante a pesquisa, encontre um exemplo de vulnerabilidade de IoT para cada uma das verticais de IoT: indústria, sistemas de energia, saúde e governo. Esteja preparado para discutir quem pode explorar a vulnerabilidade e o porquê, o que causou a vulnerabilidade e o que pode ser feito para limitar a vulnerabilidade. clique [aqui] para ver todo o documento
+
+Perguntas:
+**Em sua pesquisa, escolha uma vulnerabilidade de IoT e responda às seguintes perguntas:*
+
+a. Qual é a vulnerabilidade?
+b. Quem poderia explorá-lo? Explique.
+c. Por que a vulnerabilidade existe?
+d. O que poderia ser feito para limitar a vulnerabilidade?
