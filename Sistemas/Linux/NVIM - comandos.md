@@ -1,3 +1,5 @@
+Tags: [[Linux]]
+ 
  ### Comandos básicos do nvim.
 
 O vim tem quatro modos de utilização:
