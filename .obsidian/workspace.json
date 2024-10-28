@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43a9d2d562e1aaff",
+        "id": "dfdcb5bafaf9c628",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8a0943f1d0b2b1",
+            "id": "d58026bc5271c803",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,13 +163,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2e8a0943f1d0b2b1",
+  "active": "d58026bc5271c803",
   "lastOpenFiles": [
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
+    "DEVOPS/RabbitMQ/Anexos",
+    "DEVOPS/Sem título",
+    "DEVOPS/RabbitMQ/O que é?.md",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170752.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027164253.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027160706.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027160454.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155412.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155209.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027154736.png",
+    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027154335.png",
     "Sistemas/Linux/NVIM - comandos.md",
     "Sistemas/Linux/Listar Portas.md",
     "Sistemas/Linux/Criar executável linha de comando.md",
     "Sistemas/Linux/Linux.md",
-    "DEVOPS/RabbitMQ/O que é?.md",
     "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
     "DEVOPS/RabbitMQ",
     "DEVOPS",
@@ -180,14 +193,11 @@
     "().md",
     "Segurança/CyberOps - CiscoAcademy/Anexos/1.2.3-lab---learning-the-details-of-attacks_pt-BR.pdf",
     "Segurança/CyberOps - CiscoAcademy/Anexos/1.2.3-lab---learning-the-details-of-attacks_pt-BR.pdf.crdownload",
-    "Segurança/CyberOps - CiscoAcademy/Anexos/1.1.6-lab---cybersecurity-case-studies_pt-BR.pdf",
-    "Segurança/CyberOps - CiscoAcademy/Anexos/1.1.5-lab---installing-the-virtual-machines_pt-BR.pdf",
     "IFPE/Metodologia/Ideias.md",
     "IFPE/Cronograma/Metodologia.canvas",
     "2024-10-22.md",
     "Sem título.canvas",
     "instruções.md",
-    "download.svg",
     "Untitled.md",
     "NodeMCU/Conceitos/Servidor.md",
     "NodeMCU/Projetos/Controlando LED pela rede.md",
@@ -199,20 +209,10 @@
     "NodeMCU/Componentes/Led.md",
     "NodeMCU/Componentes/LDR.md",
     "NodeMCU/Componentes/Botão de pressão.md",
-    "NodeMCU/Anexos/display_7_datasheet_1.png",
-    "NodeMCU/Anexos/display_7_datasheet_3.png",
-    "NodeMCU/Anexos/display_7_datasheet_2.png",
     "Untitled.canvas",
     "NodeMCU/Projetos/Hello World.md",
     "2024-05-01.md",
     "NodeMCU/Projetos/RGB com potenciômetro.md",
-    "NodeMCU/Projetos/led com botão.md",
-    "NodeMCU/Arquitetura WeMos D1/Resumo.md",
-    "NodeMCU/Anexos/LDR.png",
-    "NodeMCU/Anexos/pushbutton.png",
-    "NodeMCU/Anexos/led_rgb.png",
-    "NodeMCU/Anexos/led_details.png",
-    "NodeMCU/Anexos/led.png",
-    "NodeMCU/Anexos/led.png"
+    "NodeMCU/Projetos/led com botão.md"
   ]
 }
