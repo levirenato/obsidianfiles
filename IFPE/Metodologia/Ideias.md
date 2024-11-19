@@ -1,4 +1,4 @@
-### Ex de query: `WHERE LIKE 'Artificial Intelligence' AND 'Pentest' WHERE file_format= 'PDF'`
+Ex de query: `WHERE LIKE 'Artificial Intelligence' AND 'Pentest' WHERE file_format= 'PDF'`
 ### 1. **Aplicação de IA na Detecção de Ameaças em Tempo Real em um SOC**
 
 - **Introdução**: Contextualize a crescente importância dos Security Operations Centers (SOC) e como a IA pode ser uma ferramenta poderosa para automatizar e aprimorar a detecção de ameaças.
