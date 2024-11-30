@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7e667e54c45e882a",
+        "id": "2e96696850e7feec",
         "type": "tabs",
         "children": [
           {
-            "id": "3e38063df2eeea0e",
+            "id": "8df3a020bc768d44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IFPE/PIT/Solução inicial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Solução inicial"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0daea226c11acd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1190ee1fd54f1faf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "IFPE/PIT/Drawing.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing"
             }
           }
         ]
@@ -39,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -90,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
+                "file": "Livros/Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução"
+              "title": "Backlinks for Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org)"
             }
           },
           {
@@ -142,7 +164,8 @@
               "title": "Outline of Introdução"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,31 +174,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e38063df2eeea0e",
+  "active": "8df3a020bc768d44",
   "lastOpenFiles": [
-    "Livros/Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org).pdf",
-    "Livros/Kubernetes - Tudo sobre orquestração de contêineres - Autor (Casa do Código).pdf",
+    "IFPE/PIT/Resumo do Projeto.md",
+    "IFPE/PIT/Solução inicial.md",
+    "IFPE/PIT/Drawing.md",
+    "IFPE/PIT",
+    "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
+    "DEVOPS/RabbitMQ/O que é?.md",
+    "Livros/DevOps na Prática - Entrega de Software Confiável e Automatizada - Autor (Casa do Código).pdf",
+    "DEVOPS/Microserviços/Cap 1.md",
     "DEVOPS/Kubernetes/Overview.md",
+    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
+    "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
+    "NodeMCU/Componentes/LDR.md",
+    "Livros/Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org).pdf",
+    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
+    "Excalidraw",
+    "DEVOPS/Microserviços",
+    "Untitled",
+    "Livros/Kubernetes - Tudo sobre orquestração de contêineres - Autor (Casa do Código).pdf",
     "DEVOPS/Kubernetes",
     "IFPE/Metodologia/Ideias.md",
-    "Livros/DevOps na Prática - Entrega de Software Confiável e Automatizada - Autor (Casa do Código).pdf",
-    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
-    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
-    "Livros/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
-    "Livros/Entendendo Algoritmos - Um Guia Ilustrado Para Programadores e Outros Curiosos - Autor (Aditya Y. Bhargava).pdf",
-    "Livros/The Rust Programming Language.pdf",
-    "DEVOPS/RabbitMQ/O que é?.md",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
-    "DEVOPS/RabbitMQ/Anexos",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170752.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027164253.png",
@@ -189,7 +221,6 @@
     "Sistemas/Linux/Criar executável linha de comando.md",
     "Sistemas/Linux/Linux.md",
     "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
-    "DEVOPS/RabbitMQ",
     "().md",
     "IFPE/Cronograma/Metodologia.canvas",
     "2024-10-22.md",
@@ -202,13 +233,6 @@
     "NodeMCU/Conceitos/WiFi.md",
     "NodeMCU/Componentes/Potenciômetro.md",
     "NodeMCU/Componentes/Termístor.md",
-    "NodeMCU/Componentes/Led RGB.md",
-    "NodeMCU/Componentes/Led.md",
-    "NodeMCU/Componentes/LDR.md",
-    "NodeMCU/Componentes/Botão de pressão.md",
-    "Untitled.canvas",
-    "NodeMCU/Projetos/Hello World.md",
-    "2024-05-01.md",
-    "NodeMCU/Projetos/RGB com potenciômetro.md"
+    "Untitled.canvas"
   ]
 }

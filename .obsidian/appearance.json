@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "MesloLGM Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "theme": "obsidian",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

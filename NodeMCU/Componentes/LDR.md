@@ -6,5 +6,4 @@ Quando a luz incide sobre um LDR, a resistência do dispositivo diminui, permiti
 
 Podemos criar um objeto utilizando POO:
 ```
-
 ```
