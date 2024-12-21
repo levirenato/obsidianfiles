@@ -6,6 +6,7 @@
       {
         "id": "2e96696850e7feec",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8df3a020bc768d44",
@@ -26,17 +27,20 @@
       {
         "id": "e0daea226c11acd7",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "1190ee1fd54f1faf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "IFPE/PIT/Drawing.md"
+                "file": "IFPE/PIT/Resumo do Projeto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing"
+              "icon": "lucide-file",
+              "title": "Resumo do Projeto"
             }
           }
         ]
@@ -183,11 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8df3a020bc768d44",
+  "active": "1190ee1fd54f1faf",
   "lastOpenFiles": [
-    "IFPE/PIT/Resumo do Projeto.md",
-    "IFPE/PIT/Solução inicial.md",
     "IFPE/PIT/Drawing.md",
+    "IFPE/PIT/Solução inicial.md",
+    "IFPE/PIT/Resumo do Projeto.md",
     "IFPE/PIT",
     "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
