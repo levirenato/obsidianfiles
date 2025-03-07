@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ea2e3df3ecd044f4",
+        "id": "870ff9692110cb2e",
         "type": "tabs",
         "children": [
           {
-            "id": "72768de2a65f502e",
+            "id": "318b0464adb81b0e",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "IFPE/sistemas distribuidos/Resumo - livro.md"
+                "file": "DEVOPS/Kubernetes/Overview.md"
               },
               "icon": "lucide-file",
-              "title": "Resumo - livro"
+              "title": "Overview"
             }
           }
         ]
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72768de2a65f502e",
+  "active": "318b0464adb81b0e",
   "lastOpenFiles": [
-    "IFPE/sistemas distribuidos/sistemas_distribuidos_traduzido.pdf",
     "IFPE/sistemas distribuidos/Resumo - livro.md",
+    "IFPE/sistemas distribuidos/sistemas_distribuidos_traduzido.pdf",
     "IFPE/sistemas distribuidos/Sistemas distribuídos - Revisão.md",
     "IFPE/sistemas distribuidos/Sistema_distribuidos_cap_1_2_4.pdf",
     "IFPE/sistemas distribuidos",
