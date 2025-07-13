@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e1e8cadbe9f2dfb4","x":-785,"y":-30,"width":508,"height":50,"type":"text","text":"https://github.com/fastfire/deepdarkCTI"},
+		{"id":"083421928ec5882f","type":"text","text":"acessar via terminal","x":-40,"y":-55,"width":319,"height":50},
+		{"id":"400006a7837a141b","type":"text","text":"conectar com firmware","x":-40,"y":-183,"width":319,"height":53},
+		{"id":"809ddb58d9122f35","x":-40,"y":-290,"width":319,"height":50,"type":"text","text":"conexão cruzada"},
+		{"id":"51106c0ab41daf35","type":"text","text":"binwalk","x":-40,"y":24,"width":319,"height":50},
+		{"id":"0210c703875897bd","type":"text","text":"https://github.com/palomasaldanha/Onion_Intel","x":-798,"y":51,"width":578,"height":50}
+	],
+	"edges":[
+		{"id":"22ddc6f5fe172224","fromNode":"809ddb58d9122f35","fromSide":"bottom","toNode":"400006a7837a141b","toSide":"top"},
+		{"id":"bb8282b21554c8f2","fromNode":"400006a7837a141b","fromSide":"bottom","toNode":"083421928ec5882f","toSide":"top"}
+	]
+}

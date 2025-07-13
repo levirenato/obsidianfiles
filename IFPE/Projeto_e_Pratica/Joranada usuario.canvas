@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"12c429fa65632b3f","type":"group","x":21,"y":-452,"width":290,"height":420,"color":"4","label":"Paciente"},
+		{"id":"b38809fa9edce256","type":"group","x":-476,"y":-452,"width":290,"height":354,"color":"5","label":"Profissional"},
+		{"id":"5c76d1d45baf6f09","type":"text","text":"App - ladingpage","x":-230,"y":-747,"width":250,"height":60},
+		{"id":"5379640beffeabf0","type":"text","text":"Cadastro","x":-230,"y":-635,"width":250,"height":60},
+		{"id":"ede421b9ef141594","type":"text","text":"Página de perfil","x":-456,"y":-435,"width":250,"height":60,"color":"5"},
+		{"id":"c20fb0da7d561a44","type":"text","text":"Agenda","x":-456,"y":-355,"width":250,"height":60,"color":"5"},
+		{"id":"978b6fb61f009982","type":"text","text":"Realizar consulta","x":-456,"y":-275,"width":250,"height":60,"color":"5"},
+		{"id":"644473d43c370677","type":"text","text":"Pós consulta","x":-456,"y":-195,"width":250,"height":60,"color":"5"},
+		{"id":"6bfb268343580149","type":"text","text":"Agendar consulta","x":41,"y":-352,"width":250,"height":60},
+		{"id":"b34d3b447999b42e","type":"text","text":"Pagamento","x":41,"y":-272,"width":250,"height":60},
+		{"id":"ee564aed90b88c32","type":"text","text":"Consulta","x":41,"y":-192,"width":250,"height":60},
+		{"id":"84f954408808dea1","type":"text","text":"Pós consulta","x":41,"y":-112,"width":250,"height":60},
+		{"id":"15131dee01325976","type":"text","text":"Home (listagem)","x":41,"y":-432,"width":250,"height":60},
+		{"id":"019467ff0056ca8b","x":-795,"y":-777,"width":464,"height":118,"type":"text","text":"library de compoonentes react native:\n\nhttps://github.com/wix/react-native-ui-lib"}
+	],
+	"edges":[
+		{"id":"c26c7a5b76ed6c14","fromNode":"ede421b9ef141594","fromSide":"bottom","toNode":"c20fb0da7d561a44","toSide":"top"},
+		{"id":"052275f57c4f3253","fromNode":"c20fb0da7d561a44","fromSide":"bottom","toNode":"978b6fb61f009982","toSide":"top"},
+		{"id":"60ad8ea84ee29650","fromNode":"978b6fb61f009982","fromSide":"bottom","toNode":"644473d43c370677","toSide":"top"},
+		{"id":"0d98d1f1576799a5","fromNode":"5379640beffeabf0","fromSide":"bottom","toNode":"b38809fa9edce256","toSide":"top"},
+		{"id":"1c2d178e097a8a44","fromNode":"15131dee01325976","fromSide":"bottom","toNode":"6bfb268343580149","toSide":"top"},
+		{"id":"d8974f281ac70492","fromNode":"6bfb268343580149","fromSide":"bottom","toNode":"b34d3b447999b42e","toSide":"top"},
+		{"id":"a9de4f3407524797","fromNode":"b34d3b447999b42e","fromSide":"bottom","toNode":"ee564aed90b88c32","toSide":"top"},
+		{"id":"3f1460b72cd46f8e","fromNode":"ee564aed90b88c32","fromSide":"bottom","toNode":"84f954408808dea1","toSide":"top"},
+		{"id":"f7e620ee58ce7e39","fromNode":"5379640beffeabf0","fromSide":"bottom","toNode":"12c429fa65632b3f","toSide":"top"},
+		{"id":"b1b76a745e85e240","fromNode":"5c76d1d45baf6f09","fromSide":"bottom","toNode":"5379640beffeabf0","toSide":"top"}
+	]
+}

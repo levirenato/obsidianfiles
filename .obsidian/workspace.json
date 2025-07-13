@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "870ff9692110cb2e",
+        "id": "4949f48cc0212c02",
         "type": "tabs",
         "children": [
           {
-            "id": "318b0464adb81b0e",
+            "id": "8ee3ae4812f50849",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "DEVOPS/Kubernetes/Overview.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Nova aba"
             }
           }
         ]
@@ -42,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 281.0124969482422
   },
   "right": {
     "id": "948505b96b5a9572",
@@ -144,58 +141,75 @@
               "icon": "lucide-list",
               "title": "Outline of Introdução"
             }
+          },
+          {
+            "id": "5f68aa14c61e0c4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "318b0464adb81b0e",
+  "active": "8ee3ae4812f50849",
   "lastOpenFiles": [
+    "IFPE/Projeto_e_Pratica/bancos de dados.md",
+    "Diario",
+    "IFPE/Projeto_e_Pratica/Frontend.md",
+    "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
+    "IFPE/Projeto_e_Pratica/Jornada de usuario.md",
+    "IFPE/Projeto_e_Pratica/Joranada usuario.canvas",
+    "IFPE/Projeto_e_Pratica/Drawing 2025-04-11 23.45.02.excalidraw.md",
+    "IFPE/Projeto_e_Pratica/Backend.md",
+    "Livros/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
+    "DEVOPS/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).md",
+    "DEVOPS/Resumo - Devops na prática.md",
+    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
+    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
+    "Excalidraw/Drawing 2025-04-14 18.42.32.excalidraw.md",
+    "Segurança/Hacking WebDay/Sem título.canvas",
+    "Segurança/Hacking WebDay/Primeira palestra.md",
+    "Segurança/Hacking WebDay",
+    "IFPE/Sem título.md",
+    "IFPE/Projeto_e_Pratica",
+    "Excalidraw/Drawing 2025-01-13 10.47.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-22 16.16.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
+    "DEVOPS/Kubernetes/Overview.md",
     "IFPE/sistemas distribuidos/Resumo - livro.md",
     "IFPE/sistemas distribuidos/sistemas_distribuidos_traduzido.pdf",
     "IFPE/sistemas distribuidos/Sistemas distribuídos - Revisão.md",
     "IFPE/sistemas distribuidos/Sistema_distribuidos_cap_1_2_4.pdf",
     "IFPE/sistemas distribuidos",
     "Livros/System Design Interview Textbook.pdf",
-    "DEVOPS/Kubernetes/Overview.md",
-    "DEVOPS/Resumo - Devops na prática.md",
     "Golang/Resumo.md",
-    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
-    "Livros/Kubernetes - Tudo sobre orquestração de contêineres - Autor (Casa do Código).pdf",
     "IFPE/PIT/Resumo do Projeto.md",
-    "Livros/The.Go.Programming.Language.pdf",
-    "Livros/apostila-go.pdf",
     "Untitled.md",
     "Sistemas/Linux/Criar executável linha de comando.md",
-    "Livros/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
-    "Excalidraw/Drawing 2025-01-13 10.47.07.excalidraw.md",
-    "Golang",
     "NodeMCU/Componentes/Termístor.md",
     "IFPE/PIT/Solução inicial.md",
-    "Excalidraw/Drawing 2024-12-22 16.16.14.excalidraw.md",
     "IFPE/PIT/Drawing.md",
-    "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
-    "DEVOPS/RabbitMQ/O que é?.md",
-    "DEVOPS/Microserviços/Cap 1.md",
-    "NodeMCU/Projetos/Medidor de intensidade luminosa.md",
-    "NodeMCU/Componentes/LDR.md",
-    "IFPE/Metodologia/Ideias.md",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",
@@ -206,11 +220,6 @@
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155412.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155209.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027154736.png",
-    "Sistemas/Linux/NVIM - comandos.md",
-    "Sistemas/Linux/Listar Portas.md",
-    "Sistemas/Linux/Linux.md",
-    "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
-    "().md",
     "IFPE/Cronograma/Metodologia.canvas",
     "Sem título.canvas",
     "Untitled.canvas"
