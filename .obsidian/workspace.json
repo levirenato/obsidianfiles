@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4bbfa02014d45b",
+        "id": "09dcfb69bfa5463d",
         "type": "tabs",
         "children": [
           {
-            "id": "c70df53184dbfedc",
+            "id": "7d4161602a3ceccf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Livros/The.Go.Programming.Language.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The.Go.Programming.Language"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -140,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md"
+                "file": "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução"
+              "title": "Sumário de Introdução"
             }
           },
           {
@@ -171,23 +172,23 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3724f64e09a7aa73",
+  "active": "5f68aa14c61e0c4e",
   "lastOpenFiles": [
-    "Livros/The Rust Programming Language.pdf",
-    "Livros/System Design Interview Textbook.pdf",
-    "Livros/Real-Time Communication with WebRTC.pdf",
-    "Livros/Progressive web apps - Construa aplicações progressivas com React - Autor (Casa do Código)_1.pdf",
-    "Livros/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
-    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
-    "Livros/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
-    "Livros/ML system design.pdf",
-    "Livros/Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org).pdf",
-    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
-    "Livros/Livro de Compilladores.pdf",
+    "Livros/Literatura/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.PDF",
+    "Livros/Didatico/Cracking the Coding Interview - 189 Programming Questions and Solutions - Author (Gayle Laakmann McDowell).pdf",
+    "Livros/Literatura/David Copperfield (Charles Dickens) (Z-Library).epub",
+    "Livros/Literatura/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
+    "Livros/David Copperfield (Charles Dickens) (Z-Library).epub",
+    "Livros/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.PDF",
+    "Livros/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
+    "Livros/Didatico",
+    "Livros/Literatura",
+    "Livros/Didatico/The.Go.Programming.Language.pdf",
+    "Livros/Didatico/The Rust Programming Language.pdf",
     "IFPE/Projeto_e_Pratica/bancos de dados.md",
     "IFPE/Projeto_e_Pratica/Frontend.md",
     "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
