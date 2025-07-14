@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4949f48cc0212c02",
+        "id": "5b4bbfa02014d45b",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee3ae4812f50849",
+            "id": "c70df53184dbfedc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "Livros/The.Go.Programming.Language.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The.Go.Programming.Language"
             }
           }
         ]
@@ -124,7 +126,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -171,38 +175,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ee3ae4812f50849",
+  "active": "3724f64e09a7aa73",
   "lastOpenFiles": [
+    "Livros/The Rust Programming Language.pdf",
+    "Livros/System Design Interview Textbook.pdf",
+    "Livros/Real-Time Communication with WebRTC.pdf",
+    "Livros/Progressive web apps - Construa aplicações progressivas com React - Autor (Casa do Código)_1.pdf",
+    "Livros/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
+    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
+    "Livros/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
+    "Livros/ML system design.pdf",
+    "Livros/Microsserviços prontos para a produção (Susan J. Fowler, traduzido por Claudio Adas) (z-lib.org).pdf",
+    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
+    "Livros/Livro de Compilladores.pdf",
     "IFPE/Projeto_e_Pratica/bancos de dados.md",
-    "Diario",
     "IFPE/Projeto_e_Pratica/Frontend.md",
     "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
     "IFPE/Projeto_e_Pratica/Jornada de usuario.md",
     "IFPE/Projeto_e_Pratica/Joranada usuario.canvas",
     "IFPE/Projeto_e_Pratica/Drawing 2025-04-11 23.45.02.excalidraw.md",
     "IFPE/Projeto_e_Pratica/Backend.md",
-    "Livros/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
     "DEVOPS/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).md",
     "DEVOPS/Resumo - Devops na prática.md",
-    "Livros/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
-    "Livros/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
     "Excalidraw/Drawing 2025-04-14 18.42.32.excalidraw.md",
     "Segurança/Hacking WebDay/Sem título.canvas",
     "Segurança/Hacking WebDay/Primeira palestra.md",
-    "Segurança/Hacking WebDay",
     "IFPE/Sem título.md",
-    "IFPE/Projeto_e_Pratica",
     "Excalidraw/Drawing 2025-01-13 10.47.07.excalidraw.md",
     "Excalidraw/Drawing 2024-12-22 16.16.14.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
     "DEVOPS/Kubernetes/Overview.md",
     "IFPE/sistemas distribuidos/Resumo - livro.md",
-    "IFPE/sistemas distribuidos/sistemas_distribuidos_traduzido.pdf",
     "IFPE/sistemas distribuidos/Sistemas distribuídos - Revisão.md",
-    "IFPE/sistemas distribuidos/Sistema_distribuidos_cap_1_2_4.pdf",
-    "IFPE/sistemas distribuidos",
-    "Livros/System Design Interview Textbook.pdf",
     "Golang/Resumo.md",
     "IFPE/PIT/Resumo do Projeto.md",
     "Untitled.md",
