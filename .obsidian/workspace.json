@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09dcfb69bfa5463d",
+        "id": "ef934d73f91c9217",
         "type": "tabs",
         "children": [
           {
-            "id": "7d4161602a3ceccf",
+            "id": "4f989194933236a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DevOps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +109,37 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
+                "file": "Livros/Literatura/David Copperfield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introdução"
+              "title": "Links de saída para David Copperfield"
+            }
+          },
+          {
+            "id": "3acb9543e5392884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Livros/Literatura/David Copperfield.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de David Copperfield"
+            }
+          },
+          {
+            "id": "5f68aa14c61e0c4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -131,38 +156,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "3acb9543e5392884",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Segurança/CyberOps - CiscoAcademy/Introdução/Introdução.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Introdução"
-            }
-          },
-          {
-            "id": "5f68aa14c61e0c4e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,22 +173,23 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "5f68aa14c61e0c4e",
   "lastOpenFiles": [
-    "Livros/Literatura/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.PDF",
-    "Livros/Didatico/Cracking the Coding Interview - 189 Programming Questions and Solutions - Author (Gayle Laakmann McDowell).pdf",
+    "Livros/Literatura/David Copperfield.md",
+    "Livros/Literatura/David Copperfield (Charles Dickens) (Z-Library).pdf",
     "Livros/Literatura/David Copperfield (Charles Dickens) (Z-Library).epub",
     "Livros/Literatura/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
+    "DEVOPS/Kubernetes/Overview.md",
+    "Livros/Didatico/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.pdf",
+    "Livros/Didatico/Cracking the Coding Interview - 189 Programming Questions and Solutions - Author (Gayle Laakmann McDowell).pdf",
     "Livros/David Copperfield (Charles Dickens) (Z-Library).epub",
     "Livros/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.PDF",
     "Livros/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
     "Livros/Didatico",
     "Livros/Literatura",
-    "Livros/Didatico/The.Go.Programming.Language.pdf",
-    "Livros/Didatico/The Rust Programming Language.pdf",
     "IFPE/Projeto_e_Pratica/bancos de dados.md",
     "IFPE/Projeto_e_Pratica/Frontend.md",
     "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
@@ -206,7 +207,6 @@
     "Excalidraw/Drawing 2024-12-22 16.16.14.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
-    "DEVOPS/Kubernetes/Overview.md",
     "IFPE/sistemas distribuidos/Resumo - livro.md",
     "IFPE/sistemas distribuidos/Sistemas distribuídos - Revisão.md",
     "Golang/Resumo.md",
@@ -214,8 +214,6 @@
     "Untitled.md",
     "Sistemas/Linux/Criar executável linha de comando.md",
     "NodeMCU/Componentes/Termístor.md",
-    "IFPE/PIT/Solução inicial.md",
-    "IFPE/PIT/Drawing.md",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",
