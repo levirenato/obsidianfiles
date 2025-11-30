@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef934d73f91c9217",
+        "id": "66cf45b0c4bac584",
         "type": "tabs",
         "children": [
           {
-            "id": "4f989194933236a1",
+            "id": "0a666a40d036a86f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -176,20 +177,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f68aa14c61e0c4e",
+  "active": "0a666a40d036a86f",
   "lastOpenFiles": [
+    "TCC/anexos/Yang_FreqCross_A_Multi-Modal_Frequency-Spatial_Fusion_Network_for_Robust_Detection_of_ICCVW_2025_paper.pdf",
+    "Golang/Resumo.md",
+    "Livros/Didatico/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
+    "DEVOPS/Kubernetes/Overview.md",
+    "Livros/Didatico/Kubernetes - Tudo sobre orquestração de contêineres - Autor (Casa do Código).pdf",
+    "TCC/TCC - Resumo.md",
+    "TCC/MCP - Server.md",
+    "TCC/anexos/MCP_arquitetura.png",
+    "TCC/anexos",
+    "Sem título.canvas",
+    "Excalidraw/Drawing 2025-07-30 23.20.24.excalidraw.md",
+    "Sistemas/Linux/Criar executável linha de comando.md",
+    "NodeMCU/Conceitos/WiFi.md",
+    "NodeMCU/Componentes/Led.md",
+    "DEVOPS/SRE/SRE.md",
+    "DEVOPS/SRE",
     "Livros/Literatura/David Copperfield.md",
     "Livros/Literatura/David Copperfield (Charles Dickens) (Z-Library).pdf",
     "Livros/Literatura/David Copperfield (Charles Dickens) (Z-Library).epub",
     "Livros/Literatura/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
-    "DEVOPS/Kubernetes/Overview.md",
     "Livros/Didatico/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.pdf",
     "Livros/Didatico/Cracking the Coding Interview - 189 Programming Questions and Solutions - Author (Gayle Laakmann McDowell).pdf",
     "Livros/David Copperfield (Charles Dickens) (Z-Library).epub",
-    "Livros/GoLang for Machine Learning A Hands-on-Guide to Building Efficient, Smart and Scalable ML Models with Go Programming (Evan Atkins) (Z-Library)-1.PDF",
-    "Livros/Crime e castigo (Fiodor Dostoievski) (Z-Library).epub",
-    "Livros/Didatico",
-    "Livros/Literatura",
     "IFPE/Projeto_e_Pratica/bancos de dados.md",
     "IFPE/Projeto_e_Pratica/Frontend.md",
     "IFPE/Projeto_e_Pratica/Resumo do Projeto.md",
@@ -207,13 +219,6 @@
     "Excalidraw/Drawing 2024-12-22 16.16.14.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.32.32.excalidraw.md",
     "Excalidraw/Drawing 2024-11-30 09.27.59.excalidraw.md",
-    "IFPE/sistemas distribuidos/Resumo - livro.md",
-    "IFPE/sistemas distribuidos/Sistemas distribuídos - Revisão.md",
-    "Golang/Resumo.md",
-    "IFPE/PIT/Resumo do Projeto.md",
-    "Untitled.md",
-    "Sistemas/Linux/Criar executável linha de comando.md",
-    "NodeMCU/Componentes/Termístor.md",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",
@@ -223,9 +228,7 @@
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027160454.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155412.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027155209.png",
-    "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027154736.png",
     "IFPE/Cronograma/Metodologia.canvas",
-    "Sem título.canvas",
     "Untitled.canvas"
   ]
 }
