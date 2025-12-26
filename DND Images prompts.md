@@ -366,7 +366,7 @@
   `]`
 `}`
 
-# **Golias (Goliath)**
+# Golias (Goliath)
 `{`
   `"race": "Goliath",`
   `"global_settings": {`
