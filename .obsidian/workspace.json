@@ -4,37 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "750e95856ad3d390",
+        "id": "5bbc155526da903c",
         "type": "tabs",
         "children": [
           {
-            "id": "686c19a3bf877a13",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TCC/anexos/Detecting Generated Images by Real Images.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Detecting Generated Images by Real Images"
-            }
-          },
-          {
-            "id": "22f8a6b1ee26a046",
+            "id": "643f0e0bdd7254c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND Raças.md",
+                "file": "DND Images prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Raças"
+              "title": "DND Images prompts"
             }
           },
           {
-            "id": "c52d886f748e447f",
+            "id": "e1839ab137942bdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,8 +35,7 @@
               "title": "DND Raças"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "948505b96b5a9572",
@@ -140,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND Raças.md",
+                "file": "DND Images prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para DND Raças"
+              "title": "Links de saída para DND Images prompts"
             }
           },
           {
@@ -208,10 +196,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f68aa14c61e0c4e",
+  "active": "643f0e0bdd7254c0",
   "lastOpenFiles": [
-    "DND Images prompts.md",
     "DND Raças.md",
+    "DND Images prompts.md",
     "TCC/anexos/Detecting Generated Images by Real Images.pdf",
     "Livros/Literatura/GM.pdf",
     "Livros/Literatura/DnD 5.5 - Livro do Jogador (2024) - Erratas Agosto.pdf",
