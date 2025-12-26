@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1764530403326,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1764530307925,
+          "path": "TCC/anexos/Deep learning model to detect deceptive generative adversarial.pdf",
+          "title": "usar na metodologia"
+        },
+        {
+          "type": "file",
+          "ctime": 1764530286665,
+          "path": "TCC/anexos/ViT-Based_Multi-Scale_Classification_Using_Digital_Signal_Processing_and_Image_Transformation.pdf",
+          "title": "usar na metodologia"
+        },
+        {
+          "type": "file",
+          "ctime": 1764530262453,
+          "path": "TCC/anexos/Yang_FreqCross_A_Multi-Modal_Frequency-Spatial_Fusion_Network_for_Robust_Detection_of_ICCVW_2025_paper.pdf",
+          "title": "usar na metodologia"
+        },
+        {
+          "type": "file",
+          "ctime": 1764530204649,
+          "path": "TCC/anexos/Synthbuster_Towards_Detection_of_Diffusion_Model_Generated_Images 1.pdf",
+          "title": "usar na metodologia"
+        },
+        {
+          "type": "file",
+          "ctime": 1764530116838,
+          "path": "TCC/anexos/Detecting Generated Images by Real Images.pdf",
+          "title": "usar na meotodologia"
+        }
+      ],
+      "title": "Metodologia"
+    }
+  ]
+}
