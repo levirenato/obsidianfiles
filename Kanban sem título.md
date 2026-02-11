@@ -12,6 +12,8 @@ kanban-plugin: board
 
 - [ ] aprovadoapp (TUI)
 - [ ] Message Broker (rust ou go)
+- [ ] TMUX
+- [ ] Portifolio minimalista
 
 
 ## Fazer Amanhã
