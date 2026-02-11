@@ -1,0 +1,9 @@
+11:49:33 Starting Bookokrat EPUB reader
+11:49:33 [DEBUG] (1) bookokrat::settings: Loaded settings from "/home/levirenato/.config/bookokrat/config.yaml"
+11:49:33 [DEBUG] (1) bookokrat::theme: Applied saved theme: Catppuccin Mocha
+11:49:33 Image picker initial protocol type: Kitty
+11:49:33 Kitty protocol detected, using Kitty
+11:49:33 Final protocol type: Kitty
+11:49:33 [DEBUG] (1) bookokrat::main_app: Initial terminal size: 136x33
+11:49:33 Failed to open requested book: Book not found in manager: Rust Concorrência e alta performance com segurança (Marcelo Castellani, Willian Molinari) (Z-Library).epub
+11:49:34 Shutting down Bookokrat
