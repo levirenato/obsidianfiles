@@ -6,5 +6,6 @@
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "textFontFamily": "JetBrainsMono Nerd Font",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "showRibbon": false
 }

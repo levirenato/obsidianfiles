@@ -4,27 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "be411410a2aa424f",
+        "id": "3d9dd90e1b57ffad",
         "type": "tabs",
         "children": [
           {
-            "id": "e567f7ca782a0d4f",
+            "id": "e9a74d0ffce96b27",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Kanban sem título.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Livros/Didatico/Practical GPU Graphics with wgpu and Rust (Jack Xu) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Kanban sem título"
+              "icon": "lucide-file-text",
+              "title": "Practical GPU Graphics with wgpu and Rust (Jack Xu) (z-library.sk, 1lib.sk, z-lib.sk)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0add43812b321f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec65efaa7c423664",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/wgpu.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "wgpu.excalidraw"
             }
           }
         ]
@@ -84,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "948505b96b5a9572",
@@ -172,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +200,14 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "e567f7ca782a0d4f",
+  "active": "ec65efaa7c423664",
   "lastOpenFiles": [
+    "Untitled-2026-02-25-1057.excalidraw",
     "Kanban sem título.md",
+    "Excalidraw/wgpu.excalidraw.md",
+    "Livros/Didatico/Practical GPU Graphics with wgpu and Rust (Jack Xu) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Livros/Didatico/The.Go.Programming.Language.pdf",
+    "Livros/Didatico/Zero To Production In Rust An Opinionated Introduction to Backend Development (Luca Palmieri) (z-library.sk, 1lib.sk, z-lib.sk).epub",
     "DND Images prompts.md",
     "Livros/Didatico/Rust Concorrência e alta performance com segurança (Marcelo Castellani, Willian Molinari) (Z-Library).epub",
     "Livros/Literatura/Dom Casmurro (Machado de Assis) (Z-Library).epub",
@@ -198,10 +215,6 @@
     "Livros/Didatico/Mergulho nos Padrões de Projeto - Autor (Alexander Shvets).pdf",
     "Livros/Didatico/ML system design.pdf",
     "Livros/Didatico/O Programador Pragmático - Autor (Andrew Hunt e David Thomas).pdf",
-    "Livros/Didatico/Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos - Autor (Erich Gamma).pdf",
-    "Livros/Didatico/Programando em Go - Crie aplicações com a linguagem do Google - Casa do Codigo.pdf",
-    "Livros/Didatico/Progressive web apps - Construa aplicações progressivas com React - Autor (Casa do Código)_1.pdf",
-    "Livros/Didatico/Real-Time Communication with WebRTC.pdf",
     "DND Raças.md",
     "TCC/links.md",
     "TCC/Metodologia.md",
@@ -228,8 +241,6 @@
     "DEVOPS/Resumo - Devops na prática.md",
     "Excalidraw/Drawing 2025-04-14 18.42.32.excalidraw.md",
     "Segurança/Hacking WebDay/Sem título.canvas",
-    "Segurança/Hacking WebDay/Primeira palestra.md",
-    "IFPE/Sem título.md",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027174025.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027095510.png",
     "DEVOPS/RabbitMQ/Anexos/Pasted image 20241027170854.png",

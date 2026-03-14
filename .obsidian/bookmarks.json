@@ -36,6 +36,11 @@
         }
       ],
       "title": "Metodologia"
+    },
+    {
+      "type": "file",
+      "ctime": 1771907203172,
+      "path": "Livros/Didatico/Practical GPU Graphics with wgpu and Rust (Jack Xu) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
     }
   ]
 }
