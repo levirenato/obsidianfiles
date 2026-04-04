@@ -4,26 +4,31 @@ kanban-plugin: board
 
 ---
 
-## Fazer hoje
-
-
-
 ## Projetos
 
 - [ ] aprovadoapp (TUI)
 - [ ] Message Broker (rust ou go)
 - [ ] TMUX
-- [ ] Portifolio minimalista
+- [ ] AnyDestkTUI
+
+
+## Fazer hoje
+
 
 
 ## Fazer Amanhã
 
 
 
+## Feito
+
+- [ ] Portifolio minimalista
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
